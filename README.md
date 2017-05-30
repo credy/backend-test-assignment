@@ -1,22 +1,22 @@
-#Credy
+# Credy
 
-##Backend developer position's test tasks (choose one)
+## Backend developer position's test tasks (choose one)
 
 ------------------------------------------------------------------------------------------------------------------------
 
-###Task 1: Write an application in PHP called “Group Blog”.
+### Task 1: Write an application in PHP called “Group Blog”.
 
 **Description**
 
 There are people who can post text, image, video posts into the blog.  Also there should be user-friendly interface to manage the posts and users. Anonymous users should have possibility to leave their comments.
 
-###Task 2: Write an application in PHP called “Warehouse”.
+### Task 2: Write an application in PHP called “Warehouse”.
 
 **Description**
 
 There is warehouse with many employees who can add/edit/delete products to stock. Also there are many categories of products. Such case is possible that one product belongs to many categories. Product should contain picture, description, price and whatever.
 
-####Roles & users setup description (for senior level)
+#### Roles & users setup description (for senior level)
 
 There are 2 groups: users & admins. 
 
@@ -25,7 +25,7 @@ There are 2 groups: users & admins.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-##Scoring & review
+## Scoring & review
 
 Please use github.com to publish your application. When its finished, drop us a link. It will be reviewed by our developers & you will be given feedback taking into account the table below.
 
