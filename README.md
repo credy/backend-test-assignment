@@ -21,7 +21,7 @@ There is warehouse with many employees who can add/edit/delete products to stock
 There are 2 groups: users & admins. 
 
 * Admins:  can invite (add) other people to the group and manage users; can edit all the content (full access to everything)
-* Users:  can edit all the content but their own
+* Users:  can edit only their own content
 
 ------------------------------------------------------------------------------------------------------------------------
 
