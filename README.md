@@ -4,13 +4,13 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### Task 1: Write an application in PHP called “Group Blog”.
+### Task 1: Write an application in Yii2 called “Group Blog”.
 
 **Description**
 
 There are people who can post text, image, video posts into the blog.  Also there should be user-friendly interface to manage the posts and users. Anonymous users should have possibility to leave their comments.
 
-### Task 2: Write an application in PHP called “Warehouse”.
+### Task 2: Write an application in Yii2 called “Warehouse”.
 
 **Description**
 
