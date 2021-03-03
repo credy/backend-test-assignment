@@ -36,8 +36,8 @@ Please use github.com to publish your application. When its finished, drop us a 
 | 2 | Yii’s built-in methods / helpers usage <br><ul><li>@alias</li><li>behaviours</li></ul> |  | X | X |
 | 2 | Migrations <br><ul><li>separate migrations</li><li>full migrate up/down support</li></ul> |  | X | X |
 | 2 | Documentation <br><ul><li>easy to follow documentation</li><li>MarkDown</li></ul> |  | X | X |
-| 1 | Proper error handling |  |  | X |
 | 1 | PHP compatibility from 7.4+ |  | X | X |
+| 1 | Proper error handling |  |  | X |
 | 2 | Multiple database support <br><ul><li>supports SQL databases</li><li>supports noSQL databases</li></ul> |  |  | X |
 | 1 | Optimal memory usage |  |  | X |
 | 1 | Optimal DB usage |  |  | X |
